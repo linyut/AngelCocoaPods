@@ -1,0 +1,11 @@
+platform :ios,'8.0'
+target 'AngelCocoaPods' do
+pod 'AFNetworking', '~>3.1.0'
+pod 'SVProgressHUD', '~> 2.2.2'
+pod 'SDWebImage', '~> 4.1.2'
+pod 'AngelConst', '~>1.1.1'
+pod 'UzysAssetsPickerController', '~> 0.9.9'
+pod 'IQKeyboardManager', '~> 5.0.6'
+pod 'YYModel', '~> 1.0.4'
+pod 'JKCategories', '~> 1.6'
+end
